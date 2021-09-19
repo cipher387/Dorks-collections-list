@@ -24,7 +24,7 @@ https://github.com/aleedhillon/7000-Google-Dork-List</br>
 https://github.com/d34dfr4m3/goDuck
 
 
-<h2>Github dorks<h2>
+<h2>Github dorks</h2>
 
 https://github.com/techgaun/github-dorks</br>
 https://github.com/jcesarstef/ghhdb-Github-Hacking-Database</br>
