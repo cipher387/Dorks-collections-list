@@ -49,3 +49,10 @@ https://github.com/Neo23x0/vti-dorks</br>
 <h2>Binary Edge + Shodan + Google</h2>
 
 https://github.com/iGotRootSRC/Dorkers</br>
+
+
+-----------------------------------
+
+I also recommend checking out my collection of 505 tools for OSINT:
+
+https://cipher387.github.io/osint_stuff_tool_collection/
