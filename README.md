@@ -39,6 +39,7 @@ https://github.com/AustrianEnergyCERT/ICS_IoT_Shodan_Dorks</br>
 https://github.com/lothos612/shodan</br>
 https://github.com/jakejarvis/awesome-shodan-queries</br>
 https://github.com/IFLinfosec/shodan-dorks</br>
+https://www.osintme.com/index.php/2021/01/16/ultimate-osint-with-shodan-100-great-shodan-queries/</br>
 
 
 <h2>Virus Total dorks</h2>
