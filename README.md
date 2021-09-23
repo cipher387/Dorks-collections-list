@@ -20,7 +20,7 @@ https://github.com/aleedhillon/7000-Google-Dork-List</br>
 
 <h2>Carding dorks</h2>
 <i>Universal for Google, Bing etc</i></br>
-1170 carding dorks https://pastebin.com/GYXLqgU0
+1170 carding dorks https://pastebin.com/GYXLqgU0</br>
 17K carding dorks 2019 https://pastebin.com/fgdZxy74
 
 
