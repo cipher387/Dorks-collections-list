@@ -24,6 +24,11 @@ https://github.com/aleedhillon/7000-Google-Dork-List</br>
 17K carding dorks 2019 https://pastebin.com/fgdZxy74
 
 
+<h2>Gaming dorks</h2>
+<i>Universal</i>
+7K Gaming Dorks From My Shop https://pastebin.com/ajuixpY2
+
+
 
 <h2>DuckDuckGo dorks</h2>
 
