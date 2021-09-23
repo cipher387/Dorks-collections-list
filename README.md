@@ -31,6 +31,11 @@ https://github.com/jcesarstef/ghhdb-Github-Hacking-Database</br>
 https://github.com/H4CK3RT3CH/github-dorks</br>
 
 
+<i>Many dorks for Github can also be used when searching other code hosting services (Bitbucket, Gitlab, Codeberg etc).</br>
+
+You can use the special Google Custom Search Engine to search 20 at a time  https://cipher387.github.io/code_repository_google_custom_search_engines/</i>
+
+
 
 <h2>Shodan dorks</h2>
 
