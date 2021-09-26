@@ -25,8 +25,12 @@ https://github.com/aleedhillon/7000-Google-Dork-List</br>
 
 
 <h2>Gaming dorks</h2>
-<i>Universal</i></br>
+<i>Universal for Google, Bing etc</i></br>
 7K Gaming Dorks From My Shop https://pastebin.com/ajuixpY2
+
+<h2>Wordpress Dorks</h2>
+<i>Universal for Google, Bing etc</i></br>
+474 dorks for Wordpress CMS https://pastebin.com/A9dsmgHQ
 
 
 
