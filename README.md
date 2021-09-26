@@ -30,7 +30,7 @@ https://github.com/aleedhillon/7000-Google-Dork-List</br>
 
 <h2>Shopping dorks</h2>
 <i>Universal for Google, Bing etc</i></br>
-10k Amazon dorks https://pastebin.com/1HrmzFre
+10k Amazon dorks https://pastebin.com/1HrmzFre</br>
 820 shopping Dorks for SQLi  https://pastebin.com/1kED1FDX
 
 <h2>Wordpress Dorks</h2>
