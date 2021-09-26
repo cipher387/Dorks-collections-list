@@ -26,7 +26,7 @@ https://github.com/aleedhillon/7000-Google-Dork-List</br>
 
 <h2>Gaming dorks</h2>
 <i>Universal for Google, Bing etc</i></br>
-7K Gaming Dorks From My Shop https://pastebin.com/ajuixpY2
+7K Gaming Dorks From My Shop https://pastebin.com/ajuixpY2</br>
 Minecraft https://pastebin.com/ssNgdTkC
 
 <h2>Shopping dorks</h2>
@@ -36,9 +36,9 @@ Minecraft https://pastebin.com/ssNgdTkC
 
 <h2>CMS Dorks</h2>
 <i>Universal for Google, Bing etc</i></br>
-Wordpress https://pastebin.com/A9dsmgHQ
-Magento https://pastebin.com/k75Y2QhF
-Joomla https://pastebin.com/vVQFTzVC
+Wordpress https://pastebin.com/A9dsmgHQ</br>
+Magento https://pastebin.com/k75Y2QhF</br>
+Joomla https://pastebin.com/vVQFTzVC</br>
 
 
 <h2>DuckDuckGo dorks</h2>
