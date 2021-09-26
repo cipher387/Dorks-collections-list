@@ -60,7 +60,7 @@ You can use the special Google Custom Search Engine to search 20 at a time  http
 
 
 <h2>Shodan dorks</h2>
-
+https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/1-part-100-article/google/Shodan%20Queries.txt</br>
 https://github.com/humblelad/Shodan-Dorks</br>
 https://github.com/AustrianEnergyCERT/ICS_IoT_Shodan_Dorks</br>
 https://github.com/lothos612/shodan</br>
