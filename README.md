@@ -33,11 +33,11 @@ https://github.com/aleedhillon/7000-Google-Dork-List</br>
 10k Amazon dorks https://pastebin.com/1HrmzFre</br>
 820 shopping Dorks for SQLi  https://pastebin.com/1kED1FDX
 
-<h2>Wordpress Dorks</h2>
+<h2>CMS Dorks</h2>
 <i>Universal for Google, Bing etc</i></br>
-474 dorks for Wordpress CMS https://pastebin.com/A9dsmgHQ
-
-
+Wordpress https://pastebin.com/A9dsmgHQ
+Magento https://pastebin.com/k75Y2QhF
+Joomla https://pastebin.com/vVQFTzVC
 
 
 <h2>DuckDuckGo dorks</h2>
