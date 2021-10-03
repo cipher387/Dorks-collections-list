@@ -1,46 +1,6 @@
 <h1>Dorks collections list</h1>
 
 
-
-<h2>Google, Bing, Ecosia, Yahoo or Yandex</h2>
-
-https://github.com/Zarcolio/sitedorks
-
-
-<h2>Google dorks</h2>
-
-https://github.com/BullsEye0/google_dork_list</br>
-https://github.com/sushiwushi/bug-bounty-dorks</br>
-https://github.com/rootac355/SQL-injection-dorks-list</br>
-https://github.com/unexpectedBy/SQLi-Dork-Repository</br>
-https://github.com/thomasdesr/Google-dorks</br>
-https://github.com/arimogi/Google-Dorks</br>
-https://github.com/aleedhillon/7000-Google-Dork-List</br>
-
-
-<h2>Carding dorks</h2>
-<i>Universal for Google, Bing etc</i></br>
-1170 carding dorks https://pastebin.com/GYXLqgU0</br>
-17K carding dorks 2019 https://pastebin.com/fgdZxy74
-
-
-<h2>Gaming dorks</h2>
-<i>Universal for Google, Bing etc</i></br>
-7K Gaming Dorks From My Shop https://pastebin.com/ajuixpY2</br>
-Minecraft https://pastebin.com/ssNgdTkC
-
-<h2>Shopping dorks</h2>
-<i>Universal for Google, Bing etc</i></br>
-10k Amazon dorks https://pastebin.com/1HrmzFre</br>
-820 shopping Dorks for SQLi  https://pastebin.com/1kED1FDX
-
-<h2>CMS Dorks</h2>
-<i>Universal for Google, Bing etc</i></br>
-Wordpress https://pastebin.com/A9dsmgHQ</br>
-Magento https://pastebin.com/k75Y2QhF</br>
-Joomla https://pastebin.com/vVQFTzVC</br>
-
-
 <h2>DuckDuckGo dorks</h2>
 
 https://github.com/d34dfr4m3/goDuck
@@ -77,6 +37,49 @@ https://github.com/Neo23x0/vti-dorks</br>
 <h2>Binary Edge + Shodan + Google</h2>
 
 https://github.com/iGotRootSRC/Dorkers</br>
+
+<h2>Google, Bing, Ecosia, Yahoo or Yandex</h2>
+
+https://github.com/Zarcolio/sitedorks
+
+
+<h2>Google dorks</h2>
+
+https://github.com/BullsEye0/google_dork_list</br>
+https://github.com/sushiwushi/bug-bounty-dorks</br>
+https://github.com/rootac355/SQL-injection-dorks-list</br>
+https://github.com/unexpectedBy/SQLi-Dork-Repository</br>
+https://github.com/thomasdesr/Google-dorks</br>
+https://github.com/arimogi/Google-Dorks</br>
+https://github.com/aleedhillon/7000-Google-Dork-List</br>
+
+
+<h2>Carding dorks</h2>
+<i>Universal for Google, Bing etc</i></br>
+1170 carding dorks https://pastebin.com/GYXLqgU0</br>
+17K carding dorks 2019 https://pastebin.com/fgdZxy74
+
+
+<h2>Gaming dorks</h2>
+<i>Universal for Google, Bing etc</i></br>
+7K Gaming Dorks From My Shop https://pastebin.com/ajuixpY2</br>
+Minecraft https://pastebin.com/ssNgdTkC
+
+<h2>Shopping dorks</h2>
+<i>Universal for Google, Bing etc</i></br>
+10k Amazon dorks https://pastebin.com/1HrmzFre</br>
+820 shopping Dorks for SQLi  https://pastebin.com/1kED1FDX
+
+<h2>Bug Bounty Dorks</h2>
+<i>Universal for Google, Bing etc</i></br>
+https://github.com/hackingbharat/bug-bounty-dorks-archive/blob/main/bbdorks
+
+
+<h2>CMS Dorks</h2>
+<i>Universal for Google, Bing etc</i></br>
+Wordpress https://pastebin.com/A9dsmgHQ</br>
+Magento https://pastebin.com/k75Y2QhF</br>
+Joomla https://pastebin.com/vVQFTzVC</br>
 
 
 -----------------------------------
