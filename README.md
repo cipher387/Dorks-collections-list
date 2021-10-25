@@ -11,6 +11,7 @@ https://github.com/d34dfr4m3/goDuck
 https://github.com/techgaun/github-dorks</br>
 https://github.com/jcesarstef/ghhdb-Github-Hacking-Database</br>
 https://github.com/H4CK3RT3CH/github-dorks</br>
+https://github.com/Vaidik-pandya/Github_recon_dorks/blob/main/gitdork.txt (for finding files)
 
 
 <i>Many dorks for Github can also be used when searching other code hosting services (Bitbucket, Gitlab, Codeberg etc). You can use the special Google Custom Search Engine to search 20 code hosting services at a time  https://cipher387.github.io/code_repository_google_custom_search_engines/</i>
