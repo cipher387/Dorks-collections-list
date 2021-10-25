@@ -70,7 +70,7 @@ Minecraft https://pastebin.com/ssNgdTkC
 
 <h2>Bug Bounty Dorks</h2>
 <i>Universal for Google, Bing etc</i></br>
-https://github.com/hackingbharat/bug-bounty-dorks-archive/blob/main/bbdorks
+https://github.com/hackingbharat/bug-bounty-dorks-archive/blob/main/bbdorks</br>
 https://github.com/Vinod-1122/bug-bounty-dorks/blob/main/Dorks.txt
 
 
