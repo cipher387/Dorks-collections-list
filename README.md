@@ -82,8 +82,17 @@ Magento https://pastebin.com/k75Y2QhF</br>
 Joomla https://pastebin.com/vVQFTzVC</br>
 
 
+<h2>Tools to automate the work with dorks</h2>
+Fast Google Dorks Scan https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan </br>
+0xDork https://github.com/rlyonheart/0xdork </br>
+SDorker https://github.com/TheSpeedX/SDorker </br>
+BugBounty Helper https://dorks.faisalahmed.me </br>
+Google Dork Builder Firefox Add-on https://addons.mozilla.org/ru/firefox/addon/google-dork-builder/ </br>
+ASHOK (osint swiss knife) https://github.com/ankitdobhal/Ashok </br>
+
+
 -----------------------------------
 
-I also recommend checking out my collection of 505 tools for OSINT:
+I also recommend checking out my collection of 644 tools for OSINT:
 
 https://cipher387.github.io/osint_stuff_tool_collection/
