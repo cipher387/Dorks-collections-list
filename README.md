@@ -90,9 +90,24 @@ BugBounty Helper https://dorks.faisalahmed.me </br>
 Google Dork Builder Firefox Add-on https://addons.mozilla.org/ru/firefox/addon/google-dork-builder/ </br>
 ASHOK (osint swiss knife) https://github.com/ankitdobhal/Ashok </br>
 
-
------------------------------------
+<hr>
 
 I also recommend checking out my collection of 644 tools for OSINT:
 
 https://cipher387.github.io/osint_stuff_tool_collection/
+
+<hr>
+
+Twitter — https://twitter.com/cyb_detective
+
+Telegram — https://t.me/cybdetective
+
+Linkedin — https://www.linkedin.com/groups/1908171/
+
+Revue — https://www.getrevue.co/profile/cyb_detective
+
+Github — https://github.com/cipher387
+
+Discord — every week I post a fresh invite on Twitter. You can find it by searching for "discord from:cyb_detective"
+
+<hr>
