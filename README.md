@@ -53,6 +53,11 @@ https://github.com/arimogi/Google-Dorks</br>
 https://github.com/aleedhillon/7000-Google-Dork-List</br>
 
 
+<h2>Token dorks</h2>
+Discord Bots Tokens https://github.com/traumatism/get-discord-bots-tokens-with-google
+
+
+
 <h2>Carding dorks</h2>
 <i>Universal for Google, Bing etc</i></br>
 1170 carding dorks https://pastebin.com/GYXLqgU0</br>
