@@ -53,9 +53,12 @@ https://github.com/arimogi/Google-Dorks</br>
 https://github.com/aleedhillon/7000-Google-Dork-List</br>
 
 
+<h2>Backlink dorks</h2> (SEO Terminology)
+List https://github.com/alfazzafashion/Backlink-dorks
+Explanation https://www.techywebtech.com/2021/08/backlink-dorks.html
+
 <h2>Token dorks</h2>
 Discord Bots Tokens https://github.com/traumatism/get-discord-bots-tokens-with-google
-
 
 
 <h2>Carding dorks</h2>
