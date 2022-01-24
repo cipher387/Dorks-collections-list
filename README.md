@@ -54,7 +54,7 @@ https://github.com/aleedhillon/7000-Google-Dork-List</br>
 
 
 <h2>Backlink dorks</h2> (SEO Terminology)
-List https://github.com/alfazzafashion/Backlink-dorks
+List https://github.com/alfazzafashion/Backlink-dorks</br>
 Explanation https://www.techywebtech.com/2021/08/backlink-dorks.html
 
 <h2>Token dorks</h2>
