@@ -101,12 +101,6 @@ ASHOK (osint swiss knife) https://github.com/ankitdobhal/Ashok </br>
 
 <hr>
 
-I also recommend checking out my collection of 644 tools for OSINT:
-
-https://cipher387.github.io/osint_stuff_tool_collection/
-
-<hr>
-
 Twitter — https://twitter.com/cyb_detective
 
 Telegram — https://t.me/cybdetective
