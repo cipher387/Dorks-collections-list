@@ -61,6 +61,10 @@ Explanation https://www.techywebtech.com/2021/08/backlink-dorks.html</br>
 <h2>Token dorks</h2>
 Discord Bots Tokens https://github.com/traumatism/get-discord-bots-tokens-with-google
 
+<h2>Linkedin dorks (Google X-Ray search for Linkedin)</h2>
+
+Linkedin X-Ray search queries and tools https://github.com/krlabs/linkedin-dorks
+
 
 <h2>Carding dorks</h2>
 <i>Universal for Google, Bing etc</i></br>
