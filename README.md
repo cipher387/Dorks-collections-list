@@ -53,7 +53,7 @@ https://github.com/arimogi/Google-Dorks</br>
 https://github.com/aleedhillon/7000-Google-Dork-List</br>
 
 
-<h2>.Onion dorks</h2>
+<h2>Onion dorks</h2>
 
 Dorks for searching .onion sites saved in oniline proxies services https://github.com/cipher387/Dorks-collections-list/blob/main/onion.txt</br>
 
