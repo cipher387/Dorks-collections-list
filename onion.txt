@@ -1,0 +1,9 @@
+site:*.onion.*
+site:onion܂guide
+site:onion܂cab
+site:onion܂pet
+site:onion܂casa
+site:onion܂top
+site:onion܂dog
+site:onion܂rip
+site:onion܂to
