@@ -57,6 +57,11 @@ https://github.com/aleedhillon/7000-Google-Dork-List</br>
 
 Dorks for searching .onion sites saved in oniline proxies services https://github.com/cipher387/Dorks-collections-list/blob/main/onion.txt</br>
 
+<h2>CCTV dorks</h2>
+
+Dorks for search CCTV cams admin panels https://github.com/cipher387/Dorks-collections-list/blob/main/cctv.txt</br>
+
+
 
 <h2>Backlink dorks</h2> (SEO Terminology)
 List https://github.com/alfazzafashion/Backlink-dorks</br>
