@@ -109,14 +109,22 @@ Joomla https://pastebin.com/vVQFTzVC</br>
 Fast Google Dorks Scan https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan </br>
 0xDork https://github.com/rlyonheart/0xdork </br>
 SDorker https://github.com/TheSpeedX/SDorker </br>
-BugBounty Helper https://dorks.faisalahmed.me </br>
-Google Dork Builder Firefox Add-on https://addons.mozilla.org/ru/firefox/addon/google-dork-builder/ </br>
 ASHOK (osint swiss knife) https://github.com/ankitdobhal/Ashok </br>
 Padago (Automate Google Hacking Database scraping and searching) https://github.com/opsdisk/pagodo</br>
 Katana (Python tool that automates Google Hacking/Dorking and supports Tor) https://github.com/TebbaaX/Katana </br>
 GO Dork (fast google search result scanner) https://github.com/dwisiswant0/go-dork</br>
 Snitch https://github.com/Smaash/snitch</br>
 Dorks Eye https://github.com/BullsEye0/dorks-eye</br>
+
+
+<h2>Browser extenstions</h2>
+Google Dork Builder Firefox Add-on https://addons.mozilla.org/ru/firefox/addon/google-dork-builder/ </br>
+
+
+<h2>Online tools to work with dorks</h2>
+Dorksearch https://dorksearch.com/</br>
+FilePhish https://cartographia.github.io/FilePhish/</br>
+BugBounty Helper https://dorks.faisalahmed.me </br>
 
 <hr>
 
