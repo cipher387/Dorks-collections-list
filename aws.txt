@@ -1,0 +1,16 @@
+site:"s3-external-1.amazonaws.com" and intext:CONFIDENTIAL
+site:"s3.amazonaws.com" and intext:CONFIDENTIAL
+site:"s3.dualstack.us-east-1.amazonaws.com" and intext:CONFIDENTIAL
+site:"s3-external-1.amazonaws.com" and intext:"TOP SECRET"
+site:"s3.amazonaws.com" and intext:"tlp:red"
+site:"s3.amazonaws.com" and intext:"tlp:amber"
+site:s3.amazonaws.com example
+site:s3.amazonaws.com example.com
+site:s3.amazonaws.com example-com
+site:s3.amazonaws.com com.example
+site:s3.amazonaws.com com-example
+site:s3.amazonaws.com filetype:xls password
+site:http://s3.amazonaws.com intitle:index.of.bucket
+site:http://amazonaws.com inurl:".s3.amazonaws.com/"
+s3 site:amazonaws.com filetype:log
+site:http://trello.com "aws.amazon.com" "password"
