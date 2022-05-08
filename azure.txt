@@ -12,3 +12,6 @@
 * intext:connectionstring blob filetype:config
 * intext:accountkey windows.net filetype:xml
 * intext:storageaccountkey windows.net filetype:txt
+
+
+Source https://github.com/7WaySecurity/cloud_osint
