@@ -14,3 +14,5 @@ site:http://s3.amazonaws.com intitle:index.of.bucket
 site:http://amazonaws.com inurl:".s3.amazonaws.com/"
 s3 site:amazonaws.com filetype:log
 site:http://trello.com "aws.amazon.com" "password"
+
+Source https://github.com/7WaySecurity/cloud_osint
