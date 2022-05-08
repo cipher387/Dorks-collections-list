@@ -1,0 +1,14 @@
+* site:blob.core.windows.net “keyword” 
+* site:"blob.core.windows.net" and intext:"CONFIDENTIAL"
+* site:*.core.windows.net intext:"TLP:RED"
+* site:*.core.windows.net
+* site:*.core.windows.net +blob
+* site:*.core.windows.net +files -web -blob
+* site:*.core.windows.net -web
+* site:*.core.windows.net -web -blob -files
+* site:*.core.windows.net inurl:dsts.dsts
+* site:*.core.windows.net inurl:"term" -web
+* site:*.blob.core.windows.net ext:xls | ext:xlsx (login | password | username)
+* intext:connectionstring blob filetype:config
+* intext:accountkey windows.net filetype:xml
+* intext:storageaccountkey windows.net filetype:txt
