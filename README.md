@@ -54,25 +54,27 @@ https://github.com/aleedhillon/7000-Google-Dork-List</br>
 
 
 <h2>Onion dorks</h2>
-
+<i>Universal for Google, Bing etc</i></br>
 Dorks for searching .onion sites saved in oniline proxies services https://github.com/cipher387/Dorks-collections-list/blob/main/onion.txt</br>
 
 <h2>CCTV dorks</h2>
-
+<i>Universal for Google, Bing etc</i></br>
 Dorks for search CCTV cams admin panels https://github.com/cipher387/Dorks-collections-list/blob/main/cctv.txt</br>
 
 
 
 <h2>Backlink dorks</h2> (SEO Terminology)
+<i>Universal for Google, Bing etc</i></br>
 List https://github.com/alfazzafashion/Backlink-dorks</br>
 Explanation https://www.techywebtech.com/2021/08/backlink-dorks.html</br>
 1150 dorks for forum hunting https://www.blackhatworld.com/seo/get-backlinks-yourself-1150-dorks-for-forum-hunting.380843/
 
 <h2>Token dorks</h2>
+<i>Universal for Google, Bing etc</i></br>
 Discord Bots Tokens https://github.com/traumatism/get-discord-bots-tokens-with-google
 
 <h2>Linkedin dorks (Google X-Ray search for Linkedin)</h2>
-
+<i>Universal for Google, Bing etc</i></br>
 Linkedin X-Ray search queries and tools https://github.com/krlabs/linkedin-dorks
 
 
@@ -104,6 +106,11 @@ Wordpress https://pastebin.com/A9dsmgHQ</br>
 Magento https://pastebin.com/k75Y2QhF</br>
 Joomla https://pastebin.com/vVQFTzVC</br>
 
+<h2>Cloud instance dorks</h2>
+<i>Universal for Google, Bing etc</i></br>
+Amazon AWS https://github.com/cipher387/Dorks-collections-list/blob/main/aws.txt
+Google Cloud https://github.com/cipher387/Dorks-collections-list/blob/main/googslecloud.txt
+Microsoft Azure https://github.com/cipher387/Dorks-collections-list/blob/main/azure.txt
 
 <h2>Tools to automate the work with dorks</h2>
 Fast Google Dorks Scan https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan </br>
