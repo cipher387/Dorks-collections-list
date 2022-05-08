@@ -1,0 +1,7 @@
+site:googleapis.com +commondatastorage
+site:.firebaseio.com "COMPANY NAME"
+inurl:bc.googleusercontent.com intitle:index of
+site:storage.googleapis.com
+Bucket list for a project - site:console.cloud.google.com/storage/browser
+Details for an object - site:console.cloud.google.com/storage/browser/_details
+site:firebasestorage.googleapis.com
