@@ -60,6 +60,7 @@ Dorks for searching .onion sites saved in oniline proxies services https://githu
 <h2>CCTV dorks</h2>
 <i>Universal for Google, Bing etc</i></br>
 Dorks for search CCTV cams admin panels https://github.com/cipher387/Dorks-collections-list/blob/main/cctv.txt</br>
+Camera dorks from @tru_1veresk https://github.com/iveresk/camera_dorks/blob/main/dorks.json</br>
 
 
 
