@@ -1,27 +1,27 @@
 <h1>Dorks collections list</h1>
 
 
-<a href="#duckduckdorks">DuckDuckGo dorks</a>
-<a href="#githubdorks">Github dorks</a>
-<a href="#shodandorks">Shodan dorks</a>
-<a href="#virustotaldorks">Virus Total dorks</a>
-<a href="#binaryedgedorks">Binary Edge dorks</a>
-<a href="#yandexdorks">Yandex dorks</a>
-<a href="#googledorks">Google dorks</a>
-<a href="#oniondorks">Onion dorks</a>
-<a href="#cctvdorks">CCTV dorks</a>
-<a href="#backlinkdorks">Backlink dorks</a>
-<a href="#tokendorks">Token dorks</a>
-<a href="#linkedindorks">Linkedin dorks (X-Ray)</a>
-<a href="#cardingdorks">Carding dorks </a>
-<a href="#gamingdorks">Gaming dorks </a>
-<a href="#shoppingdorks">Shopping dorks</a>
-<a href="#bugbountydorks">Bug Bounty dorks</a>
-<a href="#cmsdorks">CMS dorks</a>
-<a href="#cloudinstancedorks">Cloud Instance dorks</a>
-<a href="#automatedorks">Tools to automate the work with dorks</a>
-<a href="#browserextensions">Broswer extensions</a>
-<a href="#onlinetools">Online tools to work with dorks</a>
+<a href="#duckduckdorks">DuckDuckGo dorks</a></br>
+<a href="#githubdorks">Github dorks</a></br>
+<a href="#shodandorks">Shodan dorks</a></br>
+<a href="#virustotaldorks">Virus Total dorks</a></br>
+<a href="#binaryedgedorks">Binary Edge dorks</a></br>
+<a href="#yandexdorks">Yandex dorks</a></br>
+<a href="#googledorks">Google dorks</a></br>
+<a href="#oniondorks">Onion dorks</a></br>
+<a href="#cctvdorks">CCTV dorks</a></br>
+<a href="#backlinkdorks">Backlink dorks</a></br>
+<a href="#tokendorks">Token dorks</a></br>
+<a href="#linkedindorks">Linkedin dorks (X-Ray)</a></br>
+<a href="#cardingdorks">Carding dorks </a></br>
+<a href="#gamingdorks">Gaming dorks </a></br>
+<a href="#shoppingdorks">Shopping dorks</a></br>
+<a href="#bugbountydorks">Bug Bounty dorks</a></br>
+<a href="#cmsdorks">CMS dorks</a></br>
+<a href="#cloudinstancedorks">Cloud Instance dorks</a></br>
+<a href="#automatedorks">Tools to automate the work with dorks</a></br>
+<a href="#browserextensions">Broswer extensions</a></br>
+<a href="#onlinetools">Online tools to work with dorks</a></br>
 
 
 
