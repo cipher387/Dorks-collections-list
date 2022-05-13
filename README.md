@@ -1,5 +1,6 @@
 <h1>Dorks collections list</h1>
 
+<h1>Table of contents</h1>
 
 <a href="#duckduckdorks">DuckDuckGo dorks</a></br>
 <a href="#githubdorks">Github dorks</a></br>
