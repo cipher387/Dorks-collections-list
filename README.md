@@ -16,7 +16,8 @@
 <a href="#linkedindorks">Linkedin dorks (X-Ray)</a></br>
 <a href="#cardingdorks">Carding dorks </a></br>
 <a href="#gamingdorks">Gaming dorks </a></br>
-<a href="#shoppingdorks">Shopping dorks</a></br>
+<a href="#shoppingdorks">Cryptocurrency dorks</a></br>
+<a href="#cryptodorks">Shopping dorks</a></br>
 <a href="#bugbountydorks">Bug Bounty dorks</a></br>
 <a href="#cmsdorks">CMS dorks</a></br>
 <a href="#cloudinstancedorks">Cloud Instance dorks</a></br>
@@ -131,6 +132,13 @@ Minecraft https://pastebin.com/ssNgdTkC
 <i>Universal for Google, Bing etc</i></br>
 10k Amazon dorks https://pastebin.com/1HrmzFre</br>
 820 shopping Dorks for SQLi  https://pastebin.com/1kED1FDX
+
+<a name="cryptodorks"></a>
+<h2>Cryptocurrency dorks</h2>
+
+15K dorks to find vulnerable pages related to cryptocurrency exchanges, cryptocurrency payments, etc. https://www.scribd.com/document/384770530/15k-Btc-Dorks
+
+
 
 
 <a name="bugbountydorks"></a>
