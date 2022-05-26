@@ -13,6 +13,7 @@
 <a href="#cctvdorks">CCTV dorks</a></br>
 <a href="#backlinkdorks">Backlink dorks</a></br>
 <a href="#tokendorks">Token dorks</a></br>
+<a href="#hiddenfilesdorks">Hidden files dorks</a></br>
 <a href="#linkedindorks">Linkedin dorks (X-Ray)</a></br>
 <a href="#cardingdorks">Carding dorks </a></br>
 <a href="#gamingdorks">Gaming dorks </a></br>
@@ -117,8 +118,6 @@ Discord Bots Tokens https://github.com/traumatism/get-discord-bots-tokens-with-g
 <i>Universal for Google, Bing etc</i></br>
 https://github.com/0xAbbarhSF/Info-Sec-Dork-List/blob/main/hidden_files_dork.txt
 
-
-<i>Universal for Google, Bing etc</i></br>
 <a name="linkedindorks"></a>
 <h2>Linkedin dorks (Google X-Ray search for Linkedin)</h2>
 <i>Universal for Google, Bing etc</i></br>
