@@ -21,6 +21,7 @@
 <a href="#cryptodorks">Shopping dorks</a></br>
 <a href="#bugbountydorks">Bug Bounty dorks</a></br>
 <a href="#hidddenfilesdorks">Hidden files dorks</a></br>
+<a href="#adminpaneldorks">Admin panel dorks</a></br>
 <a href="#cmsdorks">CMS dorks</a></br>
 <a href="#cloudinstancedorks">Cloud Instance dorks</a></br>
 <a href="#automatedorks">Tools to automate the work with dorks</a></br>
@@ -117,6 +118,13 @@ Discord Bots Tokens https://github.com/traumatism/get-discord-bots-tokens-with-g
 <h2>Hidden files dorks</h2>
 <i>Universal for Google, Bing etc</i></br>
 https://github.com/0xAbbarhSF/Info-Sec-Dork-List/blob/main/hidden_files_dork.txt
+
+
+<a name="adminpaneldorks"></a>
+<h2>Admin panel dorks</h2>
+<i>Universal for Google, Bing etc</i></br>
+https://github.com/cyberm0n/admin-panel-dorks/blob/main/dorks.txt
+
 
 <a name="linkedindorks"></a>
 <h2>Linkedin dorks (Google X-Ray search for Linkedin)</h2>
