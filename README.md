@@ -22,6 +22,8 @@
 <a href="#bugbountydorks">Bug Bounty dorks</a></br>
 <a href="#hidddenfilesdorks">Hidden files dorks</a></br>
 <a href="#adminpaneldorks">Admin panel dorks</a></br>
+<a href="#gitdorks">GIT dorks</a></br>
+<a href="#logdorks">Log files dorks</a></br>
 <a href="#cmsdorks">CMS dorks</a></br>
 <a href="#cloudinstancedorks">Cloud Instance dorks</a></br>
 <a href="#automatedorks">Tools to automate the work with dorks</a></br>
@@ -163,6 +165,17 @@ Minecraft https://pastebin.com/ssNgdTkC
 https://github.com/hackingbharat/bug-bounty-dorks-archive/blob/main/bbdorks</br>
 https://github.com/Vinod-1122/bug-bounty-dorks/blob/main/Dorks.txt
 
+
+<a name="gitdorks"></a>
+<h2>GIT files Dorks</h2>
+<i>Universal for Google, Bing etc</i></br>
+https://github.com/Proviesec/google-dorks/blob/main/google-dorks-for-git-files.txt
+
+<a name="logdorks"></a>
+<h2>Log files Dorks</h2>
+<i>Universal for Google, Bing etc</i></br>
+https://github.com/Proviesec/google-dorks/blob/main/google-dorks-best-log.txt
+
 <a name="cmsdorks"></a>
 <h2>CMS Dorks</h2>
 <i>Universal for Google, Bing etc</i></br>
@@ -174,7 +187,8 @@ Joomla https://pastebin.com/vVQFTzVC</br>
 
 <h2>Cloud instance dorks</h2>
 <i>Universal for Google, Bing etc</i></br>
-Amazon AWS https://github.com/cipher387/Dorks-collections-list/blob/main/aws.txt
+Amazon AWS https://github.com/cipher387/Dorks-collections-list/blob/main/aws.txt </br>
+https://github.com/Proviesec/google-dorks/blob/main/google-dorks-for-finding-aws-s3.txt
 Google Cloud https://github.com/cipher387/Dorks-collections-list/blob/main/googslecloud.txt
 Microsoft Azure https://github.com/cipher387/Dorks-collections-list/blob/main/azure.txt
 
