@@ -1,5 +1,11 @@
 <h1>Dorks collections list</h1>
 
+
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/Dorks-collections-list">
+ 
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/Dorks-collections-list">
+
+
 <h1>Table of contents</h1>
 
 <a href="#duckduckdorks">DuckDuckGo dorks</a></br>
