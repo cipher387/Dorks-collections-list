@@ -5,6 +5,7 @@
  
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/Dorks-collections-list">
 
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/Dorks-collections-list">
 
 <h1>Table of contents</h1>
 
