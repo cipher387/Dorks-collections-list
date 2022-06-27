@@ -5,7 +5,7 @@
  
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/Dorks-collections-list">
 
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/Dorks-collections-list">
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 <h1>Table of contents</h1>
 
