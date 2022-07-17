@@ -7,6 +7,8 @@
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
+![HitCount](http://hits.dwyl.com/cipher387/Dorks-collections-list.svg)](http://hits.dwyl.com/cipher387/Dorks-collections-list)
+
 <h1>Table of contents</h1>
 
 <a href="#duckduckdorks">DuckDuckGo dorks</a></br>
