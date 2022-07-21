@@ -214,6 +214,7 @@ Katana (Python tool that automates Google Hacking/Dorking and supports Tor) http
 GO Dork (fast google search result scanner) https://github.com/dwisiswant0/go-dork</br>
 Snitch https://github.com/Smaash/snitch</br>
 Dorks Eye https://github.com/BullsEye0/dorks-eye</br>
+SQLI Dorks generator https://github.com/Zold1/sqli-dorks-generator</br>
 
 <a name="browserextensions"></a>
 <h2>Browser extenstions</h2>
