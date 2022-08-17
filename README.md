@@ -36,6 +36,8 @@
 <a href="#logdorks">Log files dorks</a></br>
 <a href="#cmsdorks">CMS dorks</a></br>
 <a href="#cloudinstancedorks">Cloud Instance dorks</a></br>
+<a href="#wikidorks">"Wiki" dorks</a></br>
+<a href="#awstatsdorks">Awstats dorks</a></br>
 <a href="#automatedorks">Tools to automate the work with dorks</a></br>
 <a href="#browserextensions">Broswer extensions</a></br>
 <a href="#onlinetools">Online tools to work with dorks</a></br>
@@ -202,6 +204,20 @@ Amazon AWS https://github.com/cipher387/Dorks-collections-list/blob/main/aws.txt
 https://github.com/Proviesec/google-dorks/blob/main/google-dorks-for-finding-aws-s3.txt
 Google Cloud https://github.com/cipher387/Dorks-collections-list/blob/main/googslecloud.txt
 Microsoft Azure https://github.com/cipher387/Dorks-collections-list/blob/main/azure.txt
+
+
+<a name="wikidorks"></a>
+<h2>Dorks for sites based by wiki engines</h2>
+<i>Universal for Google, Bing etc</i></br>
+"Wiki" dorks https://github.com/Proviesec/google-dorks/blob/main/google-dorks-for-wikipedia.txt
+
+
+
+<a name="awstatsdorks"></a>
+<h2>Awstats dorks</h2>
+<i>Universal for Google, Bing etc</i></br>
+"Stats" dorks https://github.com/Proviesec/google-dorks/blob/main/google-dorks-for-stats.txt
+
 
 
 <a name="automatedorks"></a>
