@@ -15,6 +15,7 @@
 <a href="#duckduckdorks">DuckDuckGo dorks</a></br>
 <a href="#githubdorks">Github dorks</a></br>
 <a href="#shodandorks">Shodan dorks</a></br>
+<a href="#censysdorks">Censys dorks</a></br>
 <a href="#virustotaldorks">Virus Total dorks</a></br>
 <a href="#binaryedgedorks">Binary Edge dorks</a></br>
 <a href="#yandexdorks">Yandex dorks</a></br>
@@ -72,6 +73,10 @@ https://github.com/lothos612/shodan</br>
 https://github.com/jakejarvis/awesome-shodan-queries</br>
 https://github.com/IFLinfosec/shodan-dorks</br>
 https://www.osintme.com/index.php/2021/01/16/ultimate-osint-with-shodan-100-great-shodan-queries/</br>
+
+<a name="censysdorks"></a>
+<h2>Censys dorks</h2>
+https://github.com/thehappydinoa/awesome-censys-queries</br>
 
 <a name="virustotaldorks"></a>
 <h2>Virus Total dorks</h2>
