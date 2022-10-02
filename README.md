@@ -42,6 +42,7 @@
 <a href="#cloudinstancedorks">Cloud Instance dorks</a></br>
 <a href="#wikidorks">"Wiki" dorks</a></br>
 <a href="#awstatsdorks">Awstats dorks</a></br>
+<a href="#moviedorks">Movie dorks</a></br>
 <a href="#automatedorks">Tools to automate the work with dorks</a></br>
 <a href="#browserextensions">Broswer extensions</a></br>
 <a href="#onlinetools">Online tools to work with dorks</a></br>
@@ -226,6 +227,10 @@ Microsoft Azure https://github.com/cipher387/Dorks-collections-list/blob/main/az
 <i>Universal for Google, Bing etc</i></br>
 "Stats" dorks https://github.com/Proviesec/google-dorks/blob/main/google-dorks-for-stats.txt
 
+
+<a name="moviedorks"></a>
+<h2>Movie dorks</h2>
+Dorks for finding direct links to movies https://github.com/cipher387/Dorks-collections-list/blob/main/movie.txt
 
 
 <a name="automatedorks"></a>
