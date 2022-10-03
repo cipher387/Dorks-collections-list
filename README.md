@@ -36,6 +36,7 @@
 <a href="#bugbountydorks">Bug Bounty dorks</a></br>
 <a href="#hidddenfilesdorks">Hidden files dorks</a></br>
 <a href="#adminpaneldorks">Admin panel dorks</a></br>
+<a href="#sqlinjectiondorks">SQL injection dorks</a></br>
 <a href="#gitdorks">GIT dorks</a></br>
 <a href="#logdorks">Log files dorks</a></br>
 <a href="#cmsdorks">CMS dorks</a></br>
@@ -148,6 +149,12 @@ https://github.com/0xAbbarhSF/Info-Sec-Dork-List/blob/main/hidden_files_dork.txt
 <h2>Admin panel dorks</h2>
 <i>Universal for Google, Bing etc</i></br>
 https://github.com/cyberm0n/admin-panel-dorks/blob/main/dorks.txt
+
+<a name="sqlinjectiondorks"></a>
+<h2>SQL injection dorks</h2>
+<i>Universal for Google, Bing etc</i></br>
+SQL injection dorks for goverment sites https://github.com/readloud/Google-Hacking-Database-GHDB/blob/main/sql_gov_dorks.txt</br>
+SQL injection dorks 2019 https://github.com/readloud/Google-Hacking-Database-GHDB/blob/main/sqli_dork_2019.txt
 
 
 <a name="linkedindorks"></a>
