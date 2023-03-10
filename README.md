@@ -188,6 +188,9 @@ Minecraft https://pastebin.com/ssNgdTkC
 
 15K dorks to find vulnerable pages related to cryptocurrency exchanges, cryptocurrency payments, etc. https://www.scribd.com/document/384770530/15k-Btc-Dorks
 
+18K Bitcoin and other cryptocurency related dorks
+https://pdfcoffee.com/18k-bitcoin-dorks-list--3-pdf-free.html
+
 
 
 
