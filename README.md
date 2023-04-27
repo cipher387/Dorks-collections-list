@@ -21,6 +21,7 @@ Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
 <a href="#duckduckdorks">DuckDuckGo dorks</a></br>
 <a href="#githubdorks">Github dorks</a></br>
 <a href="#shodandorks">Shodan dorks</a></br>
+<a href="#netlasdorks">Netlas dorks</a></br>
 <a href="#censysdorks">Censys dorks</a></br>
 <a href="#virustotaldorks">Virus Total dorks</a></br>
 <a href="#binaryedgedorks">Binary Edge dorks</a></br>
@@ -81,6 +82,12 @@ https://github.com/lothos612/shodan</br>
 https://github.com/jakejarvis/awesome-shodan-queries</br>
 https://github.com/IFLinfosec/shodan-dorks</br>
 https://www.osintme.com/index.php/2021/01/16/ultimate-osint-with-shodan-100-great-shodan-queries/</br>
+
+
+<a name="netlasdorks"></a>
+<h2>Netlas dorks</h2>
+
+https://github.com/netlas-io/netlas-dorks
 
 <a name="censysdorks"></a>
 <h2>Censys dorks</h2>
