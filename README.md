@@ -278,6 +278,7 @@ Dorksearch https://dorksearch.com/</br>
 FilePhish https://cartographia.github.io/FilePhish/</br>
 BugBounty Helper https://dorks.faisalahmed.me </br>
 Google Hacking tool from Pentest Tools https://pentest-tools.com/information-gathering/google-hacking</br>
+Dork Genius (AI dorks generator) https://dorkgenius.com</br>
 
 
 <hr>
