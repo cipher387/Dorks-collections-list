@@ -82,6 +82,7 @@ https://github.com/lothos612/shodan</br>
 https://github.com/jakejarvis/awesome-shodan-queries</br>
 https://github.com/IFLinfosec/shodan-dorks</br>
 https://www.osintme.com/index.php/2021/01/16/ultimate-osint-with-shodan-100-great-shodan-queries/</br>
+</br>
 
 
 <a name="netlasdorks"></a>
@@ -256,6 +257,7 @@ Dorks for finding direct links to movies https://github.com/cipher387/Dorks-coll
 <a name="automatedorks"></a>
 <h2>Tools to automate the work with dorks</h2>
 Fast Google Dorks Scan https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan </br>
+PyDork https://github.com/blacknon/pydork</br>
 0xDork https://github.com/rlyonheart/0xdork </br>
 SDorker https://github.com/TheSpeedX/SDorker </br>
 ASHOK (osint swiss knife) https://github.com/ankitdobhal/Ashok </br>
