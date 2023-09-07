@@ -14,7 +14,7 @@
 </div>
 
 
-Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+Thank you for following me! [@cyb_detective](https://cybdetective.com)
 
 <h1>Table of contents</h1>
 
@@ -286,4 +286,4 @@ Dork Genius (AI dorks generator) https://dorkgenius.com</br>
 <hr>
 
 
-Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+Thank you for following me! [@cyb_detective](https://cybdetective.com)
