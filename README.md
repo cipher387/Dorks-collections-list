@@ -282,6 +282,8 @@ BugBounty Helper https://dorks.faisalahmed.me </br>
 Google Hacking tool from Pentest Tools https://pentest-tools.com/information-gathering/google-hacking</br>
 Dork Genius (AI dorks generator) https://dorkgenius.com</br>
 Google Bug Bounty Dorks Generator https://taksec.github.io/google-dorks-bug-bounty/
+AI Search Whisper https://google.digitaldigging.org/index2.html
+
 
 
 <hr>
