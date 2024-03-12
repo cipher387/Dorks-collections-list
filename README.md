@@ -58,7 +58,7 @@ Thank you for following me! [@cyb_detective](https://cybdetective.com)
 <a name="netlasdorks"></a>
 <h2>Netlas dorks</h2>
 
-https://github.com/netlas-io/netlas-dorks
+https://github.com/netlas-io/netlas-dorks  
 https://github.com/netlas-io/netlas-cookbook
 
 
