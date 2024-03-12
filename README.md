@@ -18,13 +18,13 @@ Thank you for following me! [@cyb_detective](https://cybdetective.com)
 
 <h1>Table of contents</h1>
 
-<a href="#duckduckdorks">DuckDuckGo dorks</a></br>
+<a href="#netlasdorks">Netlas dorks</a></br>
 <a href="#githubdorks">Github dorks</a></br>
 <a href="#shodandorks">Shodan dorks</a></br>
-<a href="#netlasdorks">Netlas dorks</a></br>
 <a href="#censysdorks">Censys dorks</a></br>
 <a href="#virustotaldorks">Virus Total dorks</a></br>
 <a href="#binaryedgedorks">Binary Edge dorks</a></br>
+<a href="#duckduckdorks">DuckDuckGo dorks</a></br>
 <a href="#yandexdorks">Yandex dorks</a></br>
 <a href="#googledorks">Google dorks</a></br>
 <a href="#oniondorks">Onion dorks</a></br>
@@ -55,11 +55,13 @@ Thank you for following me! [@cyb_detective](https://cybdetective.com)
 
 
 
+<a name="netlasdorks"></a>
+<h2>Netlas dorks</h2>
 
-<a name="duckduckdorks"></a>
-<h2>DuckDuckGo dorks</h2>
+https://github.com/netlas-io/netlas-dorks
+https://github.com/netlas-io/netlas-cookbook
 
-https://github.com/d34dfr4m3/goDuck
+
 
 <a name="githubdorks"></a>
 <h2>Github dorks</h2>
@@ -85,10 +87,7 @@ https://www.osintme.com/index.php/2021/01/16/ultimate-osint-with-shodan-100-grea
 </br>
 
 
-<a name="netlasdorks"></a>
-<h2>Netlas dorks</h2>
 
-https://github.com/netlas-io/netlas-dorks
 
 <a name="censysdorks"></a>
 <h2>Censys dorks</h2>
@@ -104,6 +103,11 @@ https://github.com/Neo23x0/vti-dorks</br>
 
 https://github.com/iGotRootSRC/Dorkers</br>
 
+
+<a name="duckduckdorks"></a>
+<h2>DuckDuckGo dorks</h2>
+
+https://github.com/d34dfr4m3/goDuck
 
 <a name="yandexdorks"></a>
 
