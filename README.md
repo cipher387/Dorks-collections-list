@@ -48,6 +48,7 @@ Thank you for following me! [@cyb_detective](https://cybdetective.com)
 <a href="#wikidorks">"Wiki" dorks</a></br>
 <a href="#awstatsdorks">Awstats dorks</a></br>
 <a href="#moviedorks">Movie dorks</a></br>
+<a href="realDumbleDork">Dorks from realDumbleDork posts</a></br>
 <a href="#automatedorks">Tools to automate the work with dorks</a></br>
 <a href="#browserextensions">Broswer extensions</a></br>
 <a href="#onlinetools">Online tools to work with dorks</a></br>
@@ -256,6 +257,12 @@ Microsoft Azure https://github.com/cipher387/Dorks-collections-list/blob/main/az
 <a name="moviedorks"></a>
 <h2>Movie dorks</h2>
 Dorks for finding direct links to movies https://github.com/cipher387/Dorks-collections-list/blob/main/movie.txt
+
+<a name="realDumbleDork"></a>
+<h2>Dorks from realDumbleDork posts</h2>
+
+https://github.com/cipher387/Dorks-collections-list/blob/main/realDumbleDork_twitter.txt
+
 
 
 <a name="automatedorks"></a>
