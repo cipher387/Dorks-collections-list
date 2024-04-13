@@ -1,0 +1,13 @@
+ADFS username record inurl:"client-request-id" inurl:updatepassword inurl:adfs
+RDPs on Bing "redirectclipboard"  "bitmapcachepersistenable" "redirectprinters"
+Files that leak information ds_store ShowStatusBar ShowPathbar
+Sensitive files on Microsoft Services site:onedrive.live.com/view.aspx
+Sensitive files on Microsoft Services site:http:view.officeapps.live.com
+Search password hashes lists 5f4dcc3b5aa765d61d8327deb882cf99 ext:txt
+Access to Piwik (access log analytics tools) inurl:token_auth inurl:anonymous
+inurl:j_username inurl:j_password
+
+
+
+
+Some of these queries may no longer work in Google. So, try different search engines and don't forget the "Show hidden results" button.
