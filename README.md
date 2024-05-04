@@ -295,7 +295,8 @@ Dork Genius (AI dorks generator) https://dorkgenius.com</br>
 Google Bug Bounty Dorks Generator https://taksec.github.io/google-dorks-bug-bounty/  </br>
 AI Search Whisper https://google.digitaldigging.org/index2.html
 DorkMe https://www.dorkme.com/ (paid tool for working with search engines API)
-
+Google Dorks for Bug Bounty https://taksec.github.io/google-dorks-bug-bounty/ 
+Dorki https://dorki.io/
 
 
 <hr>
