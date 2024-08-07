@@ -189,6 +189,7 @@ Linkedin X-Ray search queries and tools https://github.com/krlabs/linkedin-dorks
 <i>Universal for Google, Bing etc</i></br>
 7K Gaming Dorks From My Shop https://pastebin.com/ajuixpY2</br>
 Minecraft https://pastebin.com/ssNgdTkC
+Fortnite https://github.com/ProjectZeroDays/Fortnite-Google-Dorks/blob/main/Fornite%20Google%20Dorks
 
 <a name="shoppingdorks"></a>
 <h2>Shopping dorks</h2>
