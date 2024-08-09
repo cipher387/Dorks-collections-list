@@ -32,6 +32,7 @@ Thank you for following me! [@cyb_detective](https://cybdetective.com)
 <a href="#backlinkdorks">Backlink dorks</a></br>
 <a href="#tokendorks">Token dorks</a></br>
 <a href="#hiddenfilesdorks">Hidden files dorks</a></br>
+<a href="#sensitivedatadorks">Sensetive data dorks</a></br>
 <a href="#linkedindorks">Linkedin dorks (X-Ray)</a></br>
 <a href="#cardingdorks">Carding dorks </a></br>
 <a href="#gamingdorks">Gaming dorks </a></br>
@@ -161,6 +162,18 @@ Discord Bots Tokens https://github.com/traumatism/get-discord-bots-tokens-with-g
 https://github.com/0xAbbarhSF/Info-Sec-Dork-List/blob/main/hidden_files_dork.txt
 
 
+
+<a name="sensitivedatadorks"></a>
+<h2>Sensitive data dorks</h2>
+Google Hacking: Google Dorks for Sensitive Information https://sankalppatil12112001.medium.com/google-hacking-google-dorks-for-sensitive-information-f1d5a8eedb32
+10 Google Dorks for Sensitive Data https://infosecwriteups.com/10-google-dorks-for-sensitive-data-9454b09edc12
+Top 25 Advanced Google Dorks for Uncovering Sensitive Documents https://osintteam.blog/top-25-advanced-google-dorks-for-uncovering-sensitive-documents-a9705e05353d
+Google Dorks List and Updated Database for Sensitive Directories in 2024 https://www.boxpiper.com/posts/google-dork-list-sensitive-directories
+10 Advanced Google Dork Queries for OSINT Privacy Breach Identification https://osintteam.blog/10-advanced-google-dork-queries-for-osint-privacy-breach-identification-ec2a4daa6739
+Finding Confidential Documents using Google Dorks https://greedybucks.medium.com/finding-confidential-documents-using-google-dorks-b09dcdd761c8
+10 Advanced Google Dork Queries for OSINT Email Identification https://osintteam.blog/10-advanced-google-dork-queries-for-osint-email-identification-796ce0225163
+
+
 <a name="adminpaneldorks"></a>
 <h2>Admin panel dorks</h2>
 <i>Universal for Google, Bing etc</i></br>
@@ -265,6 +278,7 @@ Dorks for finding direct links to movies https://github.com/cipher387/Dorks-coll
 https://github.com/cipher387/Dorks-collections-list/blob/main/realDumbleDork_twitter.txt
 
 
+<h1>TOOLS</h1>
 
 <a name="automatedorks"></a>
 <h2>Tools to automate the work with dorks</h2>
