@@ -165,13 +165,13 @@ https://github.com/0xAbbarhSF/Info-Sec-Dork-List/blob/main/hidden_files_dork.txt
 
 <a name="sensitivedatadorks"></a>
 <h2>Sensitive data dorks</h2>
-Google Hacking: Google Dorks for Sensitive Information https://sankalppatil12112001.medium.com/google-hacking-google-dorks-for-sensitive-information-f1d5a8eedb32
-10 Google Dorks for Sensitive Data https://infosecwriteups.com/10-google-dorks-for-sensitive-data-9454b09edc12
-Top 25 Advanced Google Dorks for Uncovering Sensitive Documents https://osintteam.blog/top-25-advanced-google-dorks-for-uncovering-sensitive-documents-a9705e05353d
-Google Dorks List and Updated Database for Sensitive Directories in 2024 https://www.boxpiper.com/posts/google-dork-list-sensitive-directories
-10 Advanced Google Dork Queries for OSINT Privacy Breach Identification https://osintteam.blog/10-advanced-google-dork-queries-for-osint-privacy-breach-identification-ec2a4daa6739
-Finding Confidential Documents using Google Dorks https://greedybucks.medium.com/finding-confidential-documents-using-google-dorks-b09dcdd761c8
-10 Advanced Google Dork Queries for OSINT Email Identification https://osintteam.blog/10-advanced-google-dork-queries-for-osint-email-identification-796ce0225163
+Google Hacking: Google Dorks for Sensitive Information https://sankalppatil12112001.medium.com/google-hacking-google-dorks-for-sensitive-information-f1d5a8eedb32  
+10 Google Dorks for Sensitive Data https://infosecwriteups.com/10-google-dorks-for-sensitive-data-9454b09edc12  
+Top 25 Advanced Google Dorks for Uncovering Sensitive Documents https://osintteam.blog/top-25-advanced-google-dorks-for-uncovering-sensitive-documents-a9705e05353d  
+Google Dorks List and Updated Database for Sensitive Directories in 2024 https://www.boxpiper.com/posts/google-dork-list-sensitive-directories  
+10 Advanced Google Dork Queries for OSINT Privacy Breach Identification https://osintteam.blog/10-advanced-google-dork-queries-for-osint-privacy-breach-identification-ec2a4daa6739  
+Finding Confidential Documents using Google Dorks https://greedybucks.medium.com/finding-confidential-documents-using-google-dorks-b09dcdd761c8  
+10 Advanced Google Dork Queries for OSINT Email Identification https://osintteam.blog/10-advanced-google-dork-queries-for-osint-email-identification-796ce0225163  
 
 
 <a name="adminpaneldorks"></a>
