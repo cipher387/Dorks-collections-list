@@ -164,7 +164,7 @@ https://github.com/0xAbbarhSF/Info-Sec-Dork-List/blob/main/hidden_files_dork.txt
 
 
 <a name="sensitivedatadorks"></a>
-<h2>Sensitive data dorks</h2>
+<h2>Sensetive data dorks</h2>
 Google Hacking: Google Dorks for Sensitive Information https://sankalppatil12112001.medium.com/google-hacking-google-dorks-for-sensitive-information-f1d5a8eedb32</br>  
 10 Google Dorks for Sensitive Data https://infosecwriteups.com/10-google-dorks-for-sensitive-data-9454b09edc12</br>  
 Top 25 Advanced Google Dorks for Uncovering Sensitive Documents https://osintteam.blog/top-25-advanced-google-dorks-for-uncovering-sensitive-documents-a9705e05353d</br>  
