@@ -15,3 +15,11 @@
 
 
 Source https://github.com/7WaySecurity/cloud_osint
+
+
+site:*.azurewebsites.net intext:"user list"
+site:http://x.com/ "hetmehtaa" for more tips like these lol
+site:*.azure-preview.net
+
+Source https://x.com/hetmehtaa/status/1831278837805793366
+
