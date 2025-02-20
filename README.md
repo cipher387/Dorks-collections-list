@@ -282,8 +282,8 @@ https://github.com/cipher387/Dorks-collections-list/blob/main/realDumbleDork_twi
 
 <a name="automatedorks"></a>
 <h2>Tools to automate the work with dorks</h2>
-Fast Google Dorks Scan https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan </br>
-PyDork https://github.com/blacknon/pydork</br>
+ | Fast Google Dorks Scan   | https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan   |  
+ | PyDork  | https://github.com/blacknon/pydork  |  
 0xDork https://github.com/rlyonheart/0xdork </br>
 SDorker https://github.com/TheSpeedX/SDorker </br>
 ASHOK (osint swiss knife) https://github.com/ankitdobhal/Ashok </br>
