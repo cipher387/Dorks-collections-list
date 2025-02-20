@@ -282,36 +282,41 @@ https://github.com/cipher387/Dorks-collections-list/blob/main/realDumbleDork_twi
 
 <a name="automatedorks"></a>
 <h2>Tools to automate the work with dorks</h2>
+| Name                                  | Link                                                                                                   |
+|-------------------------------------------|--------------------------------------------------------------------------------------------------------|
  | Fast Google Dorks Scan   | https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan   |      
  | PyDork  | https://github.com/blacknon/pydork  |     
-0xDork https://github.com/rlyonheart/0xdork </br>
-SDorker https://github.com/TheSpeedX/SDorker </br>
-ASHOK (osint swiss knife) https://github.com/ankitdobhal/Ashok </br>
-Padago (Automate Google Hacking Database scraping and searching) https://github.com/opsdisk/pagodo</br>
-Katana (Python tool that automates Google Hacking/Dorking and supports Tor) https://github.com/TebbaaX/Katana </br>
-GO Dork (fast google search result scanner) https://github.com/dwisiswant0/go-dork</br>
-Snitch https://github.com/Smaash/snitch</br>
-Dorks Eye https://github.com/BullsEye0/dorks-eye</br>
-SQLI Dorks generator https://github.com/Zold1/sqli-dorks-generator</br>
-DSH - Discord Server Hunter https://github.com/falkensmz/dsh</br>
-Dork hunter https://github.com/six2dez/dorks_hunter
-DorkTerm https://yogsec.github.io/DorkTerm/
-
+ | 0xDork | https://github.com/rlyonheart/0xdork | 
+ | SDorker | https://github.com/TheSpeedX/SDorker | 
+ | ASHOK (osint swiss knife) | https://github.com/ankitdobhal/Ashok | 
+ | Padago (Automate Google Hacking Database scraping and searching) | https://github.com/opsdisk/pagodo | 
+ | Katana (Python tool that automates Google Hacking/Dorking and supports Tor) |  https://github.com/TebbaaX/Katana | 
+ | GO Dork (fast google search result scanner) |  https://github.com/dwisiswant0/go-dork| 
+ | Snitch | https://github.com/Smaash/snitch | 
+ | Dorks Eye | https://github.com/BullsEye0/dorks-eye | 
+ | SQLI Dorks generator | https://github.com/Zold1/sqli-dorks-generator | 
+ | DSH - Discord Server Hunter | https://github.com/falkensmz/dsh | 
+ | Dork hunter | https://github.com/six2dez/dorks_hunter | 
+ 
 <a name="browserextensions"></a>
 <h2>Browser extenstions</h2>
 Google Dork Builder Firefox Add-on https://addons.mozilla.org/ru/firefox/addon/google-dork-builder/ </br>
 
 <a name="onlinetools"></a>
 <h2>Online tools to work with dorks</h2>
-Dorksearch https://dorksearch.com/</br>
-FilePhish https://cartographia.github.io/FilePhish/</br>
-BugBounty Helper https://dorks.faisalahmed.me </br>
-Google Hacking tool from Pentest Tools https://pentest-tools.com/information-gathering/google-hacking</br>
-Dork Genius (AI dorks generator) https://dorkgenius.com</br>
-Google Bug Bounty Dorks Generator https://taksec.github.io/google-dorks-bug-bounty/  </br>
-AI Search Whisper https://google.digitaldigging.org/index2.html
-DorkMe https://www.dorkme.com/ (paid tool for working with search engines API)
-Google Dorks for Bug Bounty https://taksec.github.io/google-dorks-bug-bounty/ 
+| Name                                  | Link                                                                                                   |
+|-------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Dorksearch  | https://dorksearch.com/| 
+| FilePhish  | https://cartographia.github.io/FilePhish/| 
+| BugBounty Helper |  https://dorks.faisalahmed.me | 
+| Google Hacking tool from Pentest Tools |  https://pentest-tools.com/information-gathering/google-hacking| 
+| Dork Genius (AI dorks generator) |  https://dorkgenius.com</br>
+| Google Bug Bounty Dorks Generator |  https://taksec.github.io/google-dorks-bug-bounty/  | 
+| AI Search Whisper |  https://google.digitaldigging.org/index2.html | 
+| DorkMe  | https://www.dorkme.com/ (paid tool for working with search engines API)| 
+| Google Dorks for Bug Bounty |  https://taksec.github.io/google-dorks-bug-bounty/ | 
+| DorkTerm | https://yogsec.github.io/DorkTerm/| 
+
 Dorki https://dorki.io/
 
 
