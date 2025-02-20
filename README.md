@@ -281,7 +281,7 @@ https://github.com/cipher387/Dorks-collections-list/blob/main/realDumbleDork_twi
 <h1>TOOLS</h1>
 
 <a name="automatedorks"></a>
-<h2>Tools to automate the work with dorks</h2>
+<h2>Command line tools</h2>
 
 | Name                                  | Link                                                                                                   |  
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------|   
@@ -308,7 +308,7 @@ https://github.com/cipher387/Dorks-collections-list/blob/main/realDumbleDork_twi
 |  Google Dork Builder Firefox Add-on  |  https://addons.mozilla.org/ru/firefox/addon/google-dork-builder/  | 
 
 <a name="onlinetools"></a>
-<h2>Online tools to work with dorks</h2>
+<h2>Online tools</h2>
 
 | Name                                  | Link                                                                                                   |
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------|
