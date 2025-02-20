@@ -316,8 +316,7 @@ Google Dork Builder Firefox Add-on https://addons.mozilla.org/ru/firefox/addon/g
 | DorkMe  | https://www.dorkme.com/ (paid tool for working with search engines API)| 
 | Google Dorks for Bug Bounty |  https://taksec.github.io/google-dorks-bug-bounty/ | 
 | DorkTerm | https://yogsec.github.io/DorkTerm/| 
-
-Dorki https://dorki.io/
+| Dorki | https://dorki.io/ | 
 
 
 <hr>
