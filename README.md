@@ -282,6 +282,7 @@ https://github.com/cipher387/Dorks-collections-list/blob/main/realDumbleDork_twi
 
 <a name="automatedorks"></a>
 <h2>Tools to automate the work with dorks</h2>
+
 | Name                                  | Link                                                                                                   |  
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------|   
  | Fast Google Dorks Scan   | https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan   |        
@@ -304,6 +305,7 @@ Google Dork Builder Firefox Add-on https://addons.mozilla.org/ru/firefox/addon/g
 
 <a name="onlinetools"></a>
 <h2>Online tools to work with dorks</h2>
+
 | Name                                  | Link                                                                                                   |
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | Dorksearch  | https://dorksearch.com/| 
