@@ -295,6 +295,7 @@ Dorks Eye https://github.com/BullsEye0/dorks-eye</br>
 SQLI Dorks generator https://github.com/Zold1/sqli-dorks-generator</br>
 DSH - Discord Server Hunter https://github.com/falkensmz/dsh</br>
 Dork hunter https://github.com/six2dez/dorks_hunter
+DorkTerm https://yogsec.github.io/DorkTerm/
 
 <a name="browserextensions"></a>
 <h2>Browser extenstions</h2>
