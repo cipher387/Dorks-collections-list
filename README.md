@@ -282,12 +282,12 @@ https://github.com/cipher387/Dorks-collections-list/blob/main/realDumbleDork_twi
 
 <a name="automatedorks"></a>
 <h2>Tools to automate the work with dorks</h2>
-| Name                                  | Link                                                                                                   |
-|-------------------------------------------|--------------------------------------------------------------------------------------------------------|
- | Fast Google Dorks Scan   | https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan   |      
- | PyDork  | https://github.com/blacknon/pydork  |     
- | 0xDork | https://github.com/rlyonheart/0xdork | 
- | SDorker | https://github.com/TheSpeedX/SDorker | 
+| Name                                  | Link                                                                                                   |  
+|-------------------------------------------|--------------------------------------------------------------------------------------------------------|   
+ | Fast Google Dorks Scan   | https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan   |        
+ | PyDork  | https://github.com/blacknon/pydork  |       
+ | 0xDork | https://github.com/rlyonheart/0xdork |   
+ | SDorker | https://github.com/TheSpeedX/SDorker |   
  | ASHOK (osint swiss knife) | https://github.com/ankitdobhal/Ashok | 
  | Padago (Automate Google Hacking Database scraping and searching) | https://github.com/opsdisk/pagodo | 
  | Katana (Python tool that automates Google Hacking/Dorking and supports Tor) |  https://github.com/TebbaaX/Katana | 
