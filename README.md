@@ -301,7 +301,11 @@ https://github.com/cipher387/Dorks-collections-list/blob/main/realDumbleDork_twi
  
 <a name="browserextensions"></a>
 <h2>Browser extenstions</h2>
-Google Dork Builder Firefox Add-on https://addons.mozilla.org/ru/firefox/addon/google-dork-builder/ </br>
+
+
+| Name                                  | Link                                                                                                   |  
+|-------------------------------------------|--------------------------------------------------------------------------------------------------------|   
+|  Google Dork Builder Firefox Add-on  |  https://addons.mozilla.org/ru/firefox/addon/google-dork-builder/  | 
 
 <a name="onlinetools"></a>
 <h2>Online tools to work with dorks</h2>
