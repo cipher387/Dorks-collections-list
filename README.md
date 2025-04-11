@@ -299,6 +299,7 @@ https://github.com/cipher387/Dorks-collections-list/blob/main/realDumbleDork_twi
  | DSH - Discord Server Hunter | https://github.com/falkensmz/dsh | 
  | Dork hunter | https://github.com/six2dez/dorks_hunter | 
  
+ 
 <a name="browserextensions"></a>
 <h2>Browser extenstions</h2>
 
@@ -323,6 +324,9 @@ https://github.com/cipher387/Dorks-collections-list/blob/main/realDumbleDork_twi
 | Google Dorks for Bug Bounty |  https://taksec.github.io/google-dorks-bug-bounty/ | 
 | DorkTerm | https://yogsec.github.io/DorkTerm/| 
 | Dorki | https://dorki.io/ | 
+| Dorkterm | https://yogsec.github.io/DorkTerm/ | 
+| DeepDork | https://guilherme-moraiss.github.io/Deep-Dork-Web/ | 
+| FileHunt | https://filehunt.3kh0.net/ | 
 
 
 <hr>
